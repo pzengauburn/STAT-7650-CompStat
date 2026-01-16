@@ -1,5 +1,4 @@
-# STAT-7650-CompStat
-STAT 7650 - Computational Statistics
+# STAT 7650 - Computational Statistics
 
 # References 
 - G.H. Givens and J.A. Hoeting (2013). Computational Statistics, 2nd Ediation. Wiley.
